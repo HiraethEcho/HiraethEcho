@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HiraethEcho&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraethEcho&hide_title=true&hide_border=true&layout=compact&langs_count=20&theme=graywhite" /> </div>
+
