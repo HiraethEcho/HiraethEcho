@@ -21,9 +21,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
           plugin_languages: yes
           plugin_languages_ignored: HTML, SCSS, CSS, TeX
           plugin_languages_limit: 8
