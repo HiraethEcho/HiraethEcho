@@ -19,15 +19,11 @@ _Ph.D. student at AMSS, UCAS. Research: birational geometry — the minimal mode
 
 <div align="center">
 
-![Metrics](./github-metrics.svg)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HiraethEcho&hide_border=true)](https://git.io/streak-stats)
+![Snake](https://raw.githubusercontent.com/HiraethEcho/HiraethEcho/output/github-snake.svg)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-![Snake](https://raw.githubusercontent.com/HiraethEcho/HiraethEcho/output/github-snake.svg)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HiraethEcho&theme=github&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HiraethEcho&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -44,7 +40,7 @@ _Ph.D. student at AMSS, UCAS. Research: birational geometry — the minimal mode
 
 ## 🌊 Vibe Coding
 
-_Vibe coding 的小项目_
+_Vibe coding 的项目_
 
 | 项目                                                    | 简介 · Description                                                                 | 技术                    |
 | ------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------- |
@@ -64,21 +60,17 @@ _我的开发环境，以及使用 AI 工具的相关仓库_
 | [**dotfiles**](https://github.com/HiraethEcho/dotfiles) | Shell / 系统配置 _Dotfiles_                                                                                         | Shell       |
 | [**suckless**](https://github.com/HiraethEcho/suckless) | dwm, dwmblocks etc 个性化分支 _Personal dwm forks_                                                                  | C           |
 
-## ✍️ 最近写作 · Latest Writing
-
-- [**docs**](https://github.com/HiraethEcho/docs) — 旧技术文档与笔记，
-- 项目开发文档笔记 [docs.keinmal.top](https://docs.keinmal.top)
-- 个人杂文站站点 [memex.keinmal.top](https://memex.keinmal.top)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🛠 工具 · Stack
 
 `C` `C++` `Rust` `Python` `Lua` `JavaScript / TypeScript` `LaTeX`
 **环境**：Arch Linux（Niri / dwm）· Kitty/foot · Neovim · Herdr · Pi/OpenCode/Codex
 **AI**：pi · PyTorch · Lean 4 · agent harness
 
----
+## ✍️ 最近写作 · Latest Writing
 
-> [关于我的更多 · More about me](https://keinmal.top/about)
+- 旧技术文档与笔记 [**docs**](https://github.com/HiraethEcho/docs)
+- 项目开发文档笔记 [docs.keinmal.top](https://docs.keinmal.top)
+- 个人杂文站站点 [memex.keinmal.top](https://memex.keinmal.top)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
