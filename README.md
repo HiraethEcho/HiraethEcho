@@ -71,6 +71,3 @@ _我的开发环境，以及使用 AI 工具的相关仓库_
 - 旧技术文档与笔记 [**docs**](https://github.com/HiraethEcho/docs)
 - 项目开发文档笔记 [docs.keinmal.top](https://docs.keinmal.top)
 - 个人杂文站站点 [memex.keinmal.top](https://memex.keinmal.top)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
